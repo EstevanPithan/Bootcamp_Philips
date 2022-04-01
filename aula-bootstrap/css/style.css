@@ -1,0 +1,31 @@
+body{ 
+  font: 1.25rem Arial, sans-serif;
+}
+
+.navbar{
+  background-color: rgb(247, 246, 246);
+}
+
+.navbar-brand img{
+  width: 15.625rem;
+  height: 2.85rem;
+}
+
+.margin{
+  padding-top: 0.625rem;
+  padding-bottom: 3.125rem;
+}
+
+/*----------QUEM SOMOS--------------*/
+#quemsomos img{
+  width: 37.5rem;
+  height: 25rem;
+}
+.quemsomos{
+  background-color: rgb(221, 221, 243);
+  
+}
+/*------PARCEIROS-------*/
+.parceiros{
+  background-color: rgb(185, 231, 231);
+}
