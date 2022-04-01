@@ -29,3 +29,11 @@ body{
 .parceiros{
   background-color: rgb(185, 231, 231);
 }
+
+.bg-footer{
+  background-color: black;
+}
+
+footer p{
+  color: white;
+}
