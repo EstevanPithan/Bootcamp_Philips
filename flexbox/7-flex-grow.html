@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fundamentos - Flex Grow</title>
+    <style>
+      .flex-container {
+        display: flex;
+        border: 2px solid black;
+        max-width: 300px;
+      }
+
+      .item {
+        background-color: orange;
+        margin: 5px;
+        padding: 10px;
+        text-align: center;
+        color: white;
+      }
+      /*flex grow vai controlar o espaçamento dentro do quadrado laranja antes e depois do texto. Se o texto for grande o quarado irá se adaptar*/
+      .fg-0 {
+        flex-grow: 0;
+      }
+
+      .fg-1 {
+        flex-grow: 1;
+      }
+
+      .fg-2 {
+        flex-grow: 2;
+      }
+
+      .fg-3 {
+        flex-grow: 3;
+      }
+      .column {
+        flex-direction: column;
+      }
+      .column div {
+        background-color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>row</h1>
+    <h2>Flex Grow 0</h2>
+    <section class="flex-container">
+      <div class="item fg-0">A</div>
+      <div class="item fg-0">B</div>
+      <div class="item fg-0">C</div>
+      <div class="item fg-0">D</div>
+    </section>
+
+    <h2>Flex Grow 0 1 0 2</h2>
+    <section class="flex-container">
+      <div class="item fg-0">A</div>
+      <div class="item fg-1">B</div>
+      <div class="item fg-0">C</div>
+      <div class="item fg-2">D</div>
+    </section>
+
+    <h2>Flex Grow 0 1 2 3</h2>
+    <section class="flex-container">
+      <div class="item fg-0">A</div>
+      <div class="item fg-1">B</div>
+      <div class="item fg-2">C</div>
+      <div class="item fg-3">D</div>
+    </section>
+
+    <h2>Flex Grow 3</h2>
+    <section class="flex-container column">
+      <div class="item fg-3">AAAAAAAA</div>
+      <div class="item fg-3">B</div>
+      <div class="item fg-3">C</div>
+      <div class="item fg-3">D</div>
+    </section>
+
+    <!--COM COLUNA NÃO FUNCIONA?????-->
+
+    <h1>column</h1>
+    <h2>Flex Grow 0</h2>
+    <section class="flex-container column">
+      <div class="item fg-0">A</div>
+      <div class="item fg-0">B</div>
+      <div class="item fg-0">C</div>
+      <div class="item fg-0">D</div>
+    </section>
+
+    <h2>Flex Grow 0 1 0 2</h2>
+    <section class="flex-container column">
+      <div class="item fg-0">A</div>
+      <div class="item fg-1">B</div>
+      <div class="item fg-0">C</div>
+      <div class="item fg-2">D</div>
+    </section>
+
+    <h2>Flex Grow 0 1 2 3</h2>
+    <section class="flex-container column">
+      <div class="item fg-0">A</div>
+      <div class="item fg-1">B</div>
+      <div class="item fg-2">C</div>
+      <div class="item fg-3">D</div>
+    </section>
+
+    <h2>Flex Grow 3</h2>
+    <section class="flex-container column">
+      <div class="item fg-3">AAAAAAAA</div>
+      <div class="item fg-3">B</div>
+      <div class="item fg-3">C</div>
+      <div class="item fg-3">D</div>
+    </section>
+  </body>
+</html>

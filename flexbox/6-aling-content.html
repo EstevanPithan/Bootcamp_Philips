@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fundamentos - aling content</title>
+    <style>
+      .container {
+        display: flex;
+        height: 400px;
+        max-width: 300px;
+        flex-wrap: wrap;
+        border: 2px solid black;
+      }
+
+      .item {
+        background-color: blueviolet;
+        padding: 0px 5px;
+        margin: 5px;
+        color: white;
+        text-align: center;
+        flex: 1;
+      }
+
+      .center {
+        align-content: center;
+      }
+
+      .stretch {
+        align-content: stretch;
+      }
+
+      .flex-start {
+        align-content: flex-start;
+      }
+
+      .flex-end {
+        align-content: flex-end;
+      }
+
+      .space-between {
+        align-content: space-between;
+      }
+
+      .space-around {
+        align-content: space-around;
+      }
+      .column {
+        flex-direction: column;
+      }
+      .column div {
+        background-color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>ROW</h1>
+    <h2>center</h2>
+    <section class="container center">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>stretch</h2>
+    <section class="container stretch">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>flex-start</h2>
+    <section class="container flex-start">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>flex-end</h2>
+    <section class="container flex-end">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>space between</h2>
+    <section class="container space-between">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>space around</h2>
+    <section class="container space-around">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h1>COLUMN</h1>
+    <h2>center</h2>
+    <section class="container center column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>stretch</h2>
+    <section class="container stretch column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>flex-start</h2>
+    <section class="container flex-start column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>flex-end</h2>
+    <section class="container flex-end column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>space between</h2>
+    <section class="container space-between column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+
+    <h2>space around</h2>
+    <section class="container space-around column">
+      <div class="item">loren</div>
+      <div class="item">Lorem, ipsum dolor</div>
+      <div class="item">Lorem ipsum dolor sit</div>
+      <div class="item">Lorem ipsum dolor sit amet</div>
+      <div class="item">Lorem ipsum dolor sit amet consectetur</div>
+    </section>
+  </body>
+</html>
