@@ -1,0 +1,53 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+}
+
+.container {
+  max-width: 1000px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.inserir {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.inserir input {
+  width: 90%;
+  height: 30px;
+}
+
+.lista {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 50%;
+}
+
+.itens {
+  margin: 10px;
+}
+
+button {
+  background-color: rgba(207, 199, 199, 0.459);
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+:checked + label {
+  text-decoration: line-through;
+  color: grey;
+}

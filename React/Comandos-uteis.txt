@@ -1,0 +1,20 @@
+--Abrir o Vscode através do GitBash--
+code . 
+
+--REACT--
+npx create-react-app "nome da pasta"
+
+--styled-components--> Biblioteca para usar css nos arquivo js
+npm install --save styled-components
+
+
+--REDUX--
+npx create-react-app "nome da pasta" --template redux
+npm install @reduxjs/toolkit
+npm install redux react-redux --save
+
+--axios--> biblioteca para fazer requisições http
+npm i axios
+
+--tabs-->Para utilizaar tabs em alguma página
+npm install --save react-tabs

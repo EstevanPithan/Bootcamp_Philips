@@ -1,0 +1,4 @@
+ctrl 3 -> abre uma janela para pesquisar perpectivas
+
+Para criar um projeto novo:
+perspectiva java
