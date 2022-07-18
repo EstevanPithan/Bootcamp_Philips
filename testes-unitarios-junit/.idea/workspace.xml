@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8d4836c-e4e5-4076-9cd8-d6a173207d93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java/debugging-java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/debugging-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/exceptions-java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/exceptions-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/jdbc-basico" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/jdbc-basico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/jpa-dio" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/jpa-dio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-jpa-extra/src/main/java/aplicacao/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-jpa-extra/src/main/java/aplicacao/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-jpa-extra/src/main/java/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-jpa-extra/src/main/java/dominio/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula-jpa-extra/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aula-jpa-extra/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit/BancoDeDados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/junit/TransferenciaEntreContas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/AssertionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/AssumptionsTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/CondicionaisTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/ConsultarDadosDePessoaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/ContaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/EscolhendoAOrdemTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/ExceptionsTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/PessoaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit/BancoDeDados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit/TransferenciaEntreContas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/AssertionsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/AssumptionsTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/CondicionaisTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/ConsultarDadosDePessoaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/ContaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/EscolhendoAOrdemTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/ExceptionsTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/junit/PessoaTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C2UO9Xry39zRaQRebiqOCxmxCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="junit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EscolhendoAOrdemTeste">
+    <configuration name="AssertionsTest.validarNumerosDeTiposDiferentes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testes-unitarios-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.AssertionsTest" />
+      <option name="METHOD_NAME" value="validarNumerosDeTiposDiferentes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssumptionsTeste.validarAlgoSomenteNoUsuarioEstevan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testes-unitarios-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.AssumptionsTeste" />
+      <option name="METHOD_NAME" value="validarAlgoSomenteNoUsuarioEstevan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultarDadosDePessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testes-unitarios-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.ConsultarDadosDePessoaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscolhendoAOrdemTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testes-unitarios-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.EscolhendoAOrdemTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionsTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testes-unitarios-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.ExceptionsTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="testes-unitarios-junit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="testes-unitarios-junit" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EscolhendoAOrdemTeste" />
+        <item itemvalue="JUnit.ExceptionsTeste" />
+        <item itemvalue="JUnit.AssumptionsTeste.validarAlgoSomenteNoUsuarioEstevan" />
+        <item itemvalue="JUnit.ConsultarDadosDePessoaTest" />
+        <item itemvalue="JUnit.AssertionsTest.validarNumerosDeTiposDiferentes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d4836c-e4e5-4076-9cd8-d6a173207d93" name="Changes" comment="" />
+      <created>1658000142325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658000142325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
